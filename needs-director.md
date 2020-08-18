@@ -14,6 +14,6 @@
 
   Given Specialist visits the hospital and the entry card issuer sensor works properly
 
-  When Specialist passes through the sensor increment the counter by 1 and decremtent on exit
+  When Specialist passes through the sensor increment the counter by 1 and decrement on exit
 
-  Then Compute and Reserve a parking slot for the specialist visiting the hospital
+  Then based on remaining spaces compute and reserve a parking slot for the specialist visiting the hospital
