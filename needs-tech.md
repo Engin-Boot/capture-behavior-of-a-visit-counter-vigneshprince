@@ -6,7 +6,7 @@
   
   When the server restarts
   
-  Then visitor counter becomes zero
+  Then visitor counter becomes zero.
 
 ## Scenario: Reconcile counts if the sensor is offline for a while
 
