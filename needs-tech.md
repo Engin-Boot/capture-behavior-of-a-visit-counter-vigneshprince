@@ -4,9 +4,9 @@
 
   Given the visit-counter
   
-  When the server restarts
+  When the server restarts after definite time
   
-  Then visitor counter becomes zero.
+  Then visitor counter becomes zero
 
 ## Scenario: Reconcile counts if the sensor is offline for a while
 
