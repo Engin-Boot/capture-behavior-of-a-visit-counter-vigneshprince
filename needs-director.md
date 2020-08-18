@@ -1,6 +1,7 @@
 # Visit-counter for a Director
 
 ## Scenario: Show patient visits during working days and holidays
+
   Given A person visits the hospital, the sensor for fall foot counter woks properly
 
   When a person enters through the sensor
