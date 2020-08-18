@@ -4,7 +4,9 @@
 
   Given the hospital has visitor count sensor system working
   
-  When the facilities manager requests the report of visitor trends with required parameters
+  When the facilities manager requests the report of visitor trends 
+  
+  Request based on required parameters
   
   Then display visitor trends during a week of operation to facilities manager
 
