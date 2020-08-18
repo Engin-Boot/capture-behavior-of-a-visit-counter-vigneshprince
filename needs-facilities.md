@@ -4,7 +4,7 @@
 
   Given the hospital has visitor count sensor system working
   
-  When the facilities manager requests the report of visitor trends 
+  When the facilities manager requests the report of visitor trends
   
   Request based on required parameters
   
@@ -15,5 +15,5 @@
   Given the hospital has visitor count sensor system working
   
   When the occupied seating is greater than set seating capacity threshold
-  
+
   Then alert the facilities manager.

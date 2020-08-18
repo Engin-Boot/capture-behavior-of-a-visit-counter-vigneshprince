@@ -14,7 +14,7 @@
 
   Given Specialist visits the hospital and the entry card issuer sensor works properly
 
-  When Specialist passes through the sensor increment the counter by 1 and 
+  When Specialist passes through the sensor increment the counter by 1 and
   
   On exiting decrement the sensor counter
 
