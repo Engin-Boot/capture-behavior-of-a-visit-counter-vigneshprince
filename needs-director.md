@@ -8,11 +8,11 @@
 
   Then increment the no of entries by 1 and display on the report for that day.
   
-  Beds, seating arrangement, parking lot provided accordingly.
+  arrangements are provided accordingly and director is given report.
 
 ## Scenario: Compute parking slots to reserve for visiting specialists
 
-  Given Specialist visits the hospital and the entry card issuer sensor works properly
+  Given Specialist visits the hospital and the entry card sensor works properly
 
   When Specialist passes through the sensor increment the counter by 1 and
   
